@@ -1,8 +1,8 @@
 # File-Transfer-Protocal-between-client-and-server
 
-***Serverside code - server_final.py***
+***Server side code - server_final.py***
 
-***Clientside code - client_final.py***
+***Client side code - client_final.py***
 
 Command Documentation:
 
